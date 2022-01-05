@@ -1,2 +1,2 @@
 # Java-Projects
-Juegos en Java
+Juego N°2: Piedra, Papel, Tijera, Lagarto, Spock.
